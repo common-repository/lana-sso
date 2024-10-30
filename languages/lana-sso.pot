@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana Single Sign On\n"
+"POT-Creation-Date: 2023-05-07 21:25+0200\n"
+"PO-Revision-Date: 2017-01-05 07:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lana-sso.php:68
+msgid "The text was copied to your clipboard!"
+msgstr ""
+
+#: lana-sso.php:69
+msgid "Opps! Your browser does not support the Clipboard API!"
+msgstr ""
+
+#: lana-sso.php:87
+msgid "Settings"
+msgstr ""
+
+#: lana-sso.php:100 lana-sso.php:132
+msgid "Lana SSO Settings"
+msgstr ""
+
+#: lana-sso.php:100
+msgid "Lana SSO"
+msgstr ""
+
+#: lana-sso.php:137
+msgid "Lana Codes"
+msgstr ""
+
+#: lana-sso.php:145
+msgid "SSO URI"
+msgstr ""
+
+#: lana-sso.php:148
+msgid ""
+"This endpoint handles the OAuth request with authorization code grant type."
+msgstr ""
+
+#: lana-sso.php:155
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: lana-sso.php:165
+msgid "Client Settings"
+msgstr ""
+
+#: lana-sso.php:170
+msgid "Client ID"
+msgstr ""
+
+#: lana-sso.php:176 lana-sso.php:205
+#, php-format
+msgid "statically set with %s constant value"
+msgstr ""
+
+#: lana-sso.php:186 lana-sso.php:215
+msgid "Delete previous value from database"
+msgstr ""
+
+#: lana-sso.php:199
+msgid "Client Secret"
+msgstr ""
+
+#: lana-sso.php:228
+msgid "Endpoint Settings"
+msgstr ""
+
+#: lana-sso.php:233
+msgid "Authorize URL"
+msgstr ""
+
+#: lana-sso.php:240
+msgid "This is used to get the authorization code."
+msgstr ""
+
+#: lana-sso.php:247
+msgid "Access Token URL"
+msgstr ""
+
+#: lana-sso.php:254
+msgid "This is used to exchange the authorization code for an access token."
+msgstr ""
+
+#: lana-sso.php:261
+msgid "Resource URL"
+msgstr ""
+
+#: lana-sso.php:268
+msgid "This is used to get the user information."
+msgstr ""
+
+#: lana-sso.php:275
+msgid "Save Changes"
+msgstr ""
+
+#: lana-sso.php:292
+msgid "Sorry, you are not allowed to delete client id from database."
+msgstr ""
+
+#: lana-sso.php:313
+msgid "Sorry, you are not allowed to delete client secret from database."
+msgstr ""
+
+#: lana-sso.php:333
+msgid "or"
+msgstr ""
+
+#: lana-sso.php:337
+msgid "Single Sign On"
+msgstr ""
+
+#: lana-sso.php:415
+msgid "&laquo; Back to WordPress Login"
+msgstr ""
+
+#: lana-sso.php:432
+msgid "The state is empty."
+msgstr ""
+
+#: lana-sso.php:437
+msgid "That state was incorrect."
+msgstr ""
+
+#: lana-sso.php:590
+msgid "Error: Failed to login with this user using SSO."
+msgstr ""
+
+#: lana-sso.php:657
+msgid "Error: Failed to log in with this created user using SSO."
+msgstr ""
+
+#: lana-sso.php:660
+msgid "Single Sign On Failed."
+msgstr ""

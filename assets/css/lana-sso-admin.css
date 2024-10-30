@@ -1,0 +1,26 @@
+.settings_page_lana-sso-settings.js #sso-uri {
+    line-height: 2.15;
+    border-right: 1px solid #b1b1b1;
+    margin-right: 5px;
+    padding-right: 10px;
+}
+
+.settings_page_lana-sso-settings #constant-client-id,
+.settings_page_lana-sso-settings #constant-client-secret {
+    line-height: 2.15;
+}
+
+.settings_page_lana-sso-settings .button-separator {
+    line-height: 2.15;
+    border-left: 1px solid #b1b1b1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.settings_page_lana-sso-settings .button-with-icon .dashicons {
+    vertical-align: middle;
+    margin-right: 5px;
+    padding-right: 5px;
+    margin-top: -2px;
+    border-right: 1px solid #bbcad5;
+}

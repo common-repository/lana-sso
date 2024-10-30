@@ -1,0 +1,45 @@
+.lana-sso .or-separator {
+    text-align: center;
+    margin-bottom: 1em;
+    position: relative;
+}
+
+.lana-sso .or-separator:before,
+.lana-sso .or-separator:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    height: 0;
+    overflow: hidden;
+    border-top: 1px solid #c3c4c7;
+}
+
+.lana-sso .or-separator:after {
+    left: 0;
+}
+
+.lana-sso .or-separator:before {
+    right: 0;
+}
+
+.lana-sso .or-separator .or-text {
+    padding: 0 10px;
+    background: white;
+    z-index: 1;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.lana-sso {
+    margin-bottom: 1.25rem;
+}
+
+.lana-sso .button-sso {
+    width: 100%;
+    text-align: center;
+}
+
+.lana-sso .clearfix {
+    clear: both;
+}
